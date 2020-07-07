@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Copy as Markdown",
+  "version": "1.0.0",
+  "description": "Copy as Markdown",
+  "permissions": ["contextMenus"],
+  "icons": {
+    "128": "./assets/icon.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}

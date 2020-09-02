@@ -45,7 +45,7 @@
     "@typescript-eslint/eslint-plugin": "^3.5.0",
     "@typescript-eslint/parser": "^3.5.0",
     "awesome-typescript-loader": "^5.2.1",
-    "bestzip": "2.1.5",
+    "bestzip": "2.1.7",
     "cpy-cli": "2.0.0",
     "cra-build-watch": "3.0.0",
     "css-loader": "3.2.1",
